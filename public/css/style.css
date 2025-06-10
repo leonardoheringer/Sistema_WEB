@@ -345,7 +345,7 @@ footer {
     gap: 10px;
 }
 
-#btn-login, #btn-ir-cadastro, #btn-cadastrar-post, #btn-minhas-publicacoes, #btn-voltar-inicial {
+#btn-login, #btn-ir-cadastro, #btn-cadastrar-post, #btn-minhas-publicacoes, #btn-voltar-inicial, #btn-criar-post {
     background-color: #D97014;
     color: white;
     border: none;

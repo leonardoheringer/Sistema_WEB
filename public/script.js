@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const mensagemErro = document.getElementById("mensagem-erro");
     const totalLikes = document.getElementById("total-likes");
     const totalDislikes = document.getElementById("total-dislikes");
-    const btnCadastrarPost = document.getElementById("btn-cadastrar-post");
+    const btnCadastrarPost = document.getElementById("btn-criar-post");
     const modalCadastrarPost = document.getElementById("modal-cadastrar-post");
     const btnCancelarPost = document.getElementById("btn-cancelar-post");
     const btnSalvarPost = document.getElementById("btn-salvar-post");
